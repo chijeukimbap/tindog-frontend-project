@@ -1,0 +1,142 @@
+/* Fonts */
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+    font-size: 3rem;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+/* Navbar */
+.navbar {
+  padding-bottom: 7%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+.nav-item{
+  padding:0 5%;
+}
+
+/* Title Section  */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+.title-msg{
+  padding-bottom: 30px;
+}
+.download-btn{
+  margin: 0 10px;
+}
+/* Features Section */
+#features{
+  text-align: center;
+  padding: 10% 0;
+}
+.feature-icon{
+  background-color: white;
+  color:#ef8172;
+  padding: 3% 3%;
+}
+.feature-icon:hover{
+  background-color: white;
+color:#ff4c68;
+}
+.feature-description{
+  color: #8f8f8f;
+  padding:0 10%;
+}
+.feature-title{
+  font-size: 1.3rem;
+}
+/* Testimonial Section */
+#testimonials{
+  background-color: #ef8172;
+  color:#FFF;
+  text-align: center;
+  padding: 3% 0;
+}
+.testimonials-image{
+  border-radius:  100%;
+  width:8.5%;
+}
+.carousel-item{
+  padding:5% 12%;
+}
+.testimonial-text{
+}
+
+/* Press Section */
+#press{
+  text-align: center;
+  background-color: #ef8172;
+}
+.press-logo{
+  margin: 20px;
+  width: 20%;
+}
+/* Pricing Section */
+#pricing{
+  text-align: center;
+}
+.card-decks{
+  padding: 5% 0;
+}
+.price-heading{
+  padding-top: 20px;
+}
+/* Call to Action */
+#cta{
+  background-color: #FF4C68;
+  color:white;
+  text-align: center;
+  padding:3% 7% ;
+}
+.big-heading{
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.cta-btn{
+  margin: 30px 15px;
+}
+/* Footer Section */
+#footer{
+  text-align: center;
+  margin: 5% 0;
+}
