@@ -1,2 +1,2 @@
 # tindog-frontend-project
-A fictional dating website for dogs created using HTML,CSS&lt; and Bootstrap 5
+A fictional dating website for dogs created using HTML,CSS and Bootstrap 5
